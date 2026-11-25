@@ -10,7 +10,7 @@
   "type": "module",
   "devDependencies": {
     "@fastly/cli": "^11.2.0",
-    "@fastly/compute-js-static-publish": "^7.0.1"
+    "@fastly/compute-js-static-publish": "^8.0.2"
   },
   "dependencies": {
     "@fastly/js-compute": "^3.26.0"
